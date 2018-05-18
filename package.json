@@ -1,0 +1,25 @@
+{
+  "name": "blog-vascosilva",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pages/index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^4.2.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "bootstrap": "^4.1.1",
+    "reactstrap": "^6.0.1",
+    "sass-loader": "^7.0.1",
+    "raw-loader": "^0.5.1",
+    "node-sass": "^4.8.3",
+    "ionicons": "^3.0.0"
+  }
+}
